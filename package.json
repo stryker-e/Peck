@@ -10,5 +10,8 @@
   "keywords": [],
   "author": "Emily Stryker",
   "email": "eastryker1@gmail.com",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
